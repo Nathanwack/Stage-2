@@ -1,0 +1,13 @@
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\bin\Debug\Projet.exe.config
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\bin\Debug\Projet.exe
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\bin\Debug\Projet.pdb
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Debug\Projet.csproj.SuggestedBindingRedirects.cache
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Debug\Projet.exe
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Debug\Projet.pdb
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Debug\Projet.Séléctionneur.resources
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Debug\Projet.Splashcreen.resources
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Debug\Projet.csproj.ResolveComReference.cache

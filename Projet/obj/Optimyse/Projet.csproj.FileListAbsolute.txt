@@ -1,0 +1,13 @@
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\bin\Optimyse\Projet.exe.config
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\bin\Optimyse\Projet.exe
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\bin\Optimyse\Projet.pdb
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Optimyse\Projet.csproj.AssemblyReference.cache
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Optimyse\Projet.csproj.SuggestedBindingRedirects.cache
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Optimyse\Projet.csproj.ResolveComReference.cache
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Optimyse\Projet.Séléctionneur.resources
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Optimyse\Projet.Splashcreen.resources
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Optimyse\Projet.Properties.Resources.resources
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Optimyse\Projet.csproj.GenerateResource.cache
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Optimyse\Projet.csproj.CoreCompileInputs.cache
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Optimyse\Projet.exe
+E:\El_Folder\Boulot\Coding\C#\Projet\Projet\obj\Optimyse\Projet.pdb
